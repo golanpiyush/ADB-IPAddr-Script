@@ -1,5 +1,5 @@
 # ADB-IPAddr-Script
-# ADB Wireless IP Connection Script
+## ADB Wireless IP Connection Script
 
 A Python script to automatically set up wireless ADB connections for Android devices. No more USB cables needed after initial setup!
 
