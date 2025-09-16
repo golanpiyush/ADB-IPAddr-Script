@@ -1,0 +1,19 @@
+
+# ADB Wireless Connection Script Requirements
+# This script uses only Python standard library modules
+# No additional packages required!
+
+# Python >= 3.6 required for:
+# - f-string formatting
+# - pathlib.Path
+# - subprocess.run() with text parameter
+
+# Standard library modules used:
+# - subprocess (command execution)
+# - re (regular expressions)
+# - sys (system operations)
+# - os (operating system interface)
+# - platform (platform identification)
+# - shutil (shell utilities)
+# - pathlib (path handling)
+# - time (time operations)
