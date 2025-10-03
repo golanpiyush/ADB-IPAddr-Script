@@ -47,8 +47,8 @@ sudo apt install android-tools-adb
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/adb-wireless-connector.git
-cd adb-wireless-connector
+git clone https://github.com/golanpiyush/ADB-IPAddr-Script.git
+cd adb-ipaddr-script
 ```
 
 2. Make the script executable (Linux/macOS):
