@@ -53,7 +53,7 @@ cd adb-ipaddr-script
 
 2. Make the script executable (Linux/macOS):
 ```bash
-chmod +x adb_wireless.py
+chmod +x adbip_addr.py
 ```
 
 ## Usage
@@ -62,7 +62,7 @@ chmod +x adb_wireless.py
 1. Connect your Android device via USB
 2. Run the script:
 ```bash
-python adb_wireless.py
+python adbip_addr.py
 ```
 3. When prompted, authorize the connection on your device
 4. Follow the on-screen instructions
